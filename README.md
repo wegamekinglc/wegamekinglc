@@ -12,7 +12,7 @@ Python tools for Finance with the functionality of indicator calculation, busine
 
 * [Alpha-Mind](https://github.com/alpha-miner/Finance-Python)
 
-Quantitative security portfolio analysis. The analysis pipeline including data storage abstraction, alpha calculation, ML based alpha combining and portfolio calculation.
+Quantitative security portfolio analysis. The analysis pipeline including data storage abstraction, alpha calculation, ML based alpha combining and portfolio optimization.
 
 
 #### 2. *Derivatives Pricing Library*
