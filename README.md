@@ -21,6 +21,10 @@ Quantitative security portfolio analysis. The analysis pipeline including data s
 
 Derivatives Algorithms Lib is an library with the goal to offer the functionality of AAD enabled and scripting included derivatives modeling.
 
+* [Machinist2](https://github.com/wegamekinglc/machinist2)
+
+Machinist is an automatic code generator by looking up mark-up blocks. Machinist2 is enhanced with Linux support.
+
 <!--
 **wegamekinglc/wegamekinglc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
