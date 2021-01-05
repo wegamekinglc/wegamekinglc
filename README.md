@@ -14,6 +14,9 @@ Python tools for Finance with the functionality of indicator calculation, busine
 
 Quantitative security portfolio analysis. The analysis pipeline including data storage abstraction, alpha calculation, ML based alpha combining and portfolio optimization.
 
+* [Portfolio-Optimizer](https://github.com/alpha-miner/portfolio-optimizer)
+
+A library for portfolio optimization algorithms with python interface.
 
 #### 2. *Derivatives Pricing Library*
 
