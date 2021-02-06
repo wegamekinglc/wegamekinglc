@@ -10,7 +10,7 @@ I am currently actively working on the following projects:
 
 Python tools for Finance with the functionality of indicator calculation, business day calculation and so on.
 
-* [Alpha-Mind](https://github.com/alpha-miner/Finance-Python)
+* [Alpha-Mind](https://github.com/alpha-miner/alpha-mind)
 
 Quantitative security portfolio analysis. The analysis pipeline including data storage abstraction, alpha calculation, ML based alpha combining and portfolio optimization.
 
