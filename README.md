@@ -20,7 +20,7 @@ A library for portfolio optimization algorithms with python interface.
 
 #### 2. *Derivatives Pricing Library*
 
-* [*D*erivatives *A*lgorithms *L*ib](https://github.com/wegamekinglc/dal)
+* [Derivatives Algorithms Lib](https://github.com/wegamekinglc/dal)
 
 Derivatives Algorithms Lib is an library with the goal to offer the functionality of AAD enabled and scripting included derivatives modeling.
 
