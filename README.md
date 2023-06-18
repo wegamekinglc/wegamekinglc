@@ -2,8 +2,6 @@
 
 This is Cheng Li (李丞) from Shanghai, China. A quantitative modeler with enthusiasm on quantitative finance and other related topics.
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=wegamekinglc)](https://github.com/ryo-ma/github-profile-trophy)
-
 I am currently actively working on the following projects:
 
 #### 1. *Quantinative Equity Portfolio Management*
