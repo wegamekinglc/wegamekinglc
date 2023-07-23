@@ -22,11 +22,11 @@ A library for portfolio optimization algorithms with python interface.
 
 * [Derivatives Algorithms Lib](https://github.com/wegamekinglc/dal)
 
-Derivatives Algorithms Lib is an library with the goal to offer the functionality of AAD enabled and scripting included derivatives modeling.
+Derivatives Algorithms Lib is an library with the goal to offer the user the AAD-enabled derivatives pricing and product scripting functionality.
 
-* [Machinist2](https://github.com/wegamekinglc/machinist2)
+* [DAL.Jax](https://github.com/wegamekinglc/dal.jax)
 
-Machinist is an automatic code generator by looking up mark-up blocks. Machinist2 is enhanced with Linux support.
+An experimental project to benchmark the performance between [**DAL**](https://github.com/wegamekinglc/Derivatives-Algorithms-Lib) and [**JAX**](https://github.com/google/jax) implemented codes. 
 
 <!--
 **wegamekinglc/wegamekinglc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
