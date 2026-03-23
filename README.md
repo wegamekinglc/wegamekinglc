@@ -24,11 +24,11 @@ A library for portfolio optimization algorithms with python interface.
 
 Derivatives Algorithms Lib is an library with the goal to offer the user the AAD-enabled derivatives pricing and product scripting functionality.
 
-* [daL.cpp](https://github.com/wegamekinglc/dal.cpp)
+* [dal.cpp](https://github.com/wegamekinglc/dal.cpp)
 
 a standalone version `Derivatives Algorithms Lib` without any submodule dependency
 
-* [daL.jax](https://github.com/wegamekinglc/dal.jax)
+* [dal.jax](https://github.com/wegamekinglc/dal.jax)
 
 An experimental project to benchmark the performance between [**DAL**](https://github.com/wegamekinglc/Derivatives-Algorithms-Lib) and [**JAX**](https://github.com/google/jax) implemented codes. 
 
