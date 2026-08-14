@@ -28,6 +28,10 @@ Derivatives Algorithms Lib is an library with the goal to offer the user the AAD
 
 An experimental project to benchmark the performance between [**DAL**](https://github.com/wegamekinglc/Derivatives-Algorithms-Lib) and [**JAX**](https://github.com/google/jax) implemented codes. 
 
+* [dal-web](https://github.com/wegamekinglc/dal-web)
+
+Portfolio management web UI for the DAL quantitative finance library (FastAPI + React), powered by the dal-python PyPI package.
+
 <!--
 **wegamekinglc/wegamekinglc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
