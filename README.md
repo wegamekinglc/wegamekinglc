@@ -32,6 +32,12 @@ An experimental project to benchmark the performance between [**DAL**](https://g
 
 Portfolio management web UI for the DAL quantitative finance library (FastAPI + React), powered by the dal-python PyPI package.
 
+#### 3. *Micro-batch & Streaming Calculation Engine*
+
+* [Calc Flow](https://github.com/wegamekinglc/calc-flow)
+
+Calc Flow 2.0 is a Rust-native calculation engine for immutable Arrow micro-batches and stateful streams. Typed calculation graphs are compiled and executed with Apache DataFusion, exposed to Python through PyO3 bindings, plus a local FastAPI + React Studio.
+
 <!--
 **wegamekinglc/wegamekinglc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
