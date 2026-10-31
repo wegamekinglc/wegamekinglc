@@ -38,6 +38,10 @@ Portfolio management web UI for the DAL quantitative finance library (FastAPI + 
 
 Calc Flow 2.0 is a Rust-native calculation engine for immutable Arrow micro-batches and stateful streams. Typed calculation graphs are compiled and executed with Apache DataFusion, exposed to Python through PyO3 bindings, plus a local FastAPI + React Studio.
 
+* [Calc Flow Studio](https://github.com/wegamekinglc/calc-flow-studio)
+
+A local FastAPI + React companion application for Calc Flow, with a visual interface for editing, validating, previewing, and running calculation projects and a continuous-job API.
+
 <!--
 **wegamekinglc/wegamekinglc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
